@@ -6,10 +6,10 @@ aspiring  Data Analyst based in Johannesburg , South Africa . I turn Data  into 
 SQL . Power BI .Excel . Snowflake 
 
 ## Featured Projects
--Soccer Player Analytics ** - SQL + Power BI dasboard
-=Bright Motors Car Sales Analytics ** - Power BI dashboard
-- ** BrightTV Viewership Analytics ** -Snowflake + SQL
-- ** Sales Case Study ** - promotion impact and price elasticity
+- **Soccer Player Analytics ** - SQL + Power BI dasboard
+-**Bright Motors Car Sales Analytics ** - Power BI dashboard
+  -**BrightTV Viewership Analytics ** -Snowflake + SQL
+- **Sales Case Study ** - promotion impact and price elasticity
 
 - ## Currently Learning
 - Microsoft Power BI (PL-300) . Azure Data Fundamentals (DP-900)
